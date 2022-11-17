@@ -26,3 +26,40 @@
         .valor{
             font-style: italic;
         }
+        .botoes{
+            background-color: rgb(195, 127, 17);
+            border-radius: 5px;
+            color: white;
+            font-weight: bold;
+            border: none;
+            padding: 8px;
+        }
+        .paragrafo{
+            font-size: 20px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        header{
+            padding: 5px;
+            height: 15vh;
+            
+        }
+        nav{
+            background-color: blue;
+        }
+        
+        aside{
+            width: 70%;
+        }
+        main{
+            display: flex;
+            height: 70vh;
+        }
+        article{
+            ;
+            width: 10%;
+        }
+        footer{
+                        height: 10vh;
+        }
